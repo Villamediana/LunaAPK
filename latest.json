@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "notes": "Primeira versão standalone: só voz, Palco por cima de qualquer app.",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "notes": "Respostas curtas por voz.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "ddf4c1f8b35063cdf681d107aa642bcea3c82dba9d27216f848fb7d54ced6f9e"
+  "sha256": "b0d87eeb72d7bb71baf0d2741fe2cb635b4851260152ecbf92d304e5f886f08f"
 }
