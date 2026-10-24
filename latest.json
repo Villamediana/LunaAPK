@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.10",
-  "notes": "Menos ativação falsa: corte mais rígido e cancelamento do som do próprio celular; não escuta com jogo aberto",
+  "versionCode": 22,
+  "versionName": "1.2.11",
+  "notes": "Quando você chama de dentro de um app, ela já lê a tela antes de responder; termina de ouvir mais rápido e ouve melhor o nome em ambiente quieto.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "e2b5f662fe6a7a4028ac9be40759af262e855c6a04a0f5e341028a2697f75491"
+  "sha256": "8ce3621bb7739912f5812b6068bd4626bf8b18511aadeb5fe3892d93ba2fe5d9"
 }
