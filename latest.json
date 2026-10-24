@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.2",
-  "notes": "Não corta mais no meio da fala; legenda manuscrita",
+  "versionCode": 7,
+  "versionName": "1.1.3",
+  "notes": "A Luna gasta muito menos bateria esperando ouvir o nome dela.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "51bd72cd66608213242c39220272a8b4930d5e29a105e6e90e70af79f43cb2ec"
+  "sha256": "7a21cb77be02348f70fc403d84c3817b9418550c9d10a870f7f948d82e04a51f"
 }
