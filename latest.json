@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "notes": "Fala curta; a resposta completa vai pro Palco.",
+  "versionCode": 4,
+  "versionName": "1.1.0",
+  "notes": "Escuta com o mesmo modelo da palavra de ativação; legenda ao vivo do que você fala.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "b6e5c3f7c34266b45af4dbd09a7b209e2e86411fbfb544a7b59d1b6a3771c6b9"
+  "sha256": "ed385ef595cb9f3cca5e9c418a974a2f4b374bfa969dbcaed690174ccec3a619"
 }
