@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.0",
-  "notes": "A Luna ouve o nome com um modelo treinado só para \"Luna\" e escreve o que você diz com o Parakeet (baixe o modelo em Voz → Ouvir). Ondas no pé da tela seguem a sua voz.",
+  "versionCode": 12,
+  "versionName": "1.2.1",
+  "notes": "A tela não apaga nem bloqueia enquanto a Luna ouve, pensa, fala ou faz o que você pediu.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "e2de3bbded321c3fa94e6b5d7d29ff01b5d8089307b12b51a7370336f3f8015f"
+  "sha256": "9bcd2ff7cf3c4a499388cff661c489b3d313caf4cb5cb3b4fcb80eb1df1f9ead"
 }
