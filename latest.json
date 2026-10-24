@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.1",
-  "notes": "A tela não apaga nem bloqueia enquanto a Luna ouve, pensa, fala ou faz o que você pediu.",
+  "versionCode": 13,
+  "versionName": "1.2.2",
+  "notes": "A tela fica acesa o tempo todo enquanto a pílula de ações estiver aparecendo.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "9bcd2ff7cf3c4a499388cff661c489b3d313caf4cb5cb3b4fcb80eb1df1f9ead"
+  "sha256": "110c8259d4660ae30ee388cd58c105467038bea8b351ffd6cfd61a6adfc329a7"
 }
