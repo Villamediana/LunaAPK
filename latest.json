@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.2.6",
-  "notes": "Seu dia mostra um cartão para cada assunto pedido; o texto do topo não passa mais por baixo dos cartões ao rolar",
+  "versionCode": 18,
+  "versionName": "1.2.7",
+  "notes": "Seu dia lê várias fontes por assunto, sem a pílula flutuante e sem a linha de dias acima do campo",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "1ee5825a44f948aab9cc9b1c8a39106a8db42a19da495278af8a676bd1edfbdd"
+  "sha256": "41cda2c4ababc7a019dc7291d0fb8c91124204a46cad651590529e9375a002f1"
 }
