@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.2.5",
-  "notes": "Cifras com acento aparecem certas (você, cabeça, não).",
+  "versionCode": 17,
+  "versionName": "1.2.6",
+  "notes": "Seu dia mostra um cartão para cada assunto pedido; o texto do topo não passa mais por baixo dos cartões ao rolar",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "9c59f869ba039bd6941047d98fa3cc27274d0e9de3beed6bc1317898d5dd8e24"
+  "sha256": "1ee5825a44f948aab9cc9b1c8a39106a8db42a19da495278af8a676bd1edfbdd"
 }
