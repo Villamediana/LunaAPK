@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.2.8",
-  "notes": "Seu dia conta cada notícia por inteiro, juntando várias fontes, sem limite de tamanho nos cartões",
+  "versionCode": 20,
+  "versionName": "1.2.9",
+  "notes": "Seu dia não termina mais só com o parágrafo: sem cartão ela volta e mostra; cartão quebrado ela reenvia inteiro",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "69d240c8f1c9d3867256239d8bf3506635a9ad5482f69e57ae058c4e9f7f4f63"
+  "sha256": "f0885e08f738632d55cc0111f66c87b04ddfe53e6528cc30c806c233e8784d85"
 }
