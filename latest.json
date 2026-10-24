@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.3",
-  "notes": "A Luna gasta muito menos bateria esperando ouvir o nome dela.",
+  "versionCode": 8,
+  "versionName": "1.1.4",
+  "notes": "A Luna só fica ouvindo com a tela ligada.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "7a21cb77be02348f70fc403d84c3817b9418550c9d10a870f7f948d82e04a51f"
+  "sha256": "febe341f77979c19882b24a2ae70990f75eb46e0ca0c16e0a59ac9916b691b9b"
 }
