@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.2.2",
-  "notes": "A tela fica acesa o tempo todo enquanto a pílula de ações estiver aparecendo.",
+  "versionCode": 14,
+  "versionName": "1.2.3",
+  "notes": "A Luna descreve cada app instalado uma vez só; app novo ganha descrição, app removido sai da lista.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "110c8259d4660ae30ee388cd58c105467038bea8b351ffd6cfd61a6adfc329a7"
+  "sha256": "dff7734ebbad6c596f49c65c63ea4123ee701491bc46af1190b18518c6a285cc"
 }
