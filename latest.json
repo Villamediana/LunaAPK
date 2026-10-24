@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.4",
-  "notes": "A transcrição começa a carregar quando ela ouve \"Luna\" e fica pronta por 5 minutos. Seus dados mostra os apps que ela conhece, com a descrição de cada um.",
+  "versionCode": 16,
+  "versionName": "1.2.5",
+  "notes": "Cifras com acento aparecem certas (você, cabeça, não).",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "9c809f0179a6e6fc8c8f669bb5fb525b0652421b3af573b2f35ca4a4eacb7eb2"
+  "sha256": "9c59f869ba039bd6941047d98fa3cc27274d0e9de3beed6bc1317898d5dd8e24"
 }
