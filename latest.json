@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.1",
-  "notes": "Ouvir o nome volta sozinho ao abrir a Luna",
+  "versionCode": 6,
+  "versionName": "1.1.2",
+  "notes": "Não corta mais no meio da fala; legenda manuscrita",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "6e6b7106902eb478fcf73a793f1888ecf0605030e7923248b3b6a95262ea6e28"
+  "sha256": "51bd72cd66608213242c39220272a8b4930d5e29a105e6e90e70af79f43cb2ec"
 }
