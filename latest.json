@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.5",
-  "notes": "A Luna olha a tela quando você pergunta sobre algo nela, e a conversa recomeça depois de 10 minutos parada.",
+  "versionCode": 10,
+  "versionName": "1.1.6",
+  "notes": "A Luna edita e pausa tarefas agendadas, vê e marca compromissos na agenda e apaga notas.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "3bedee2e25fdeb50315f4bae6e9cce4f72c708637a718c561027c3aa5b1e9fc3"
+  "sha256": "d81df4072b32ac1c6b47dee0b3b13f054c66797c741d992c42043cde9480ed1a"
 }
