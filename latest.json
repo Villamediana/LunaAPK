@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "1.2.12",
-  "notes": "Modelo novo do nome: ela ouve \"Luna\" falado baixo, de longe, sem precisar gritar.",
+  "versionCode": 24,
+  "versionName": "1.2.13",
+  "notes": "Ouve \"Luna\" de verdade: novo detector treinado com vozes reais, sem precisar gritar.",
   "apk": "https://raw.githubusercontent.com/Villamediana/LunaAPK/main/luna.apk",
-  "sha256": "b32e25301c271ee5fbaeb985254daeb19c60d0348848fb8d3ca2cfdb2e465cad"
+  "sha256": "292105cbf35ea20968288a89b1f6f6aef339ddc3ec6cfef57f71263815fe42c4"
 }
